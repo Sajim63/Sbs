@@ -1,7 +1,7 @@
 apt install git python -y
 
-git clone https://github.com/dark64hack/NAYEEM50009
+git clone https://https://github.com/Sajim63/Sbs
 
-cd NAYEEM50009
+cd Sbs
 
-python NAYEEM.py
+python Sbs.py
