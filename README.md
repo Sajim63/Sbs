@@ -31,7 +31,7 @@ XB1 is A bruteForce attacking tool
 + ```apt update```
 + ```apt upgrade```
 + ```apt install git -y```
-+ ```git clone https://github.com/ledxb/xb1.git```
++ ```git clone https://github.com/Sajim63/Sbs ```
 + ```cd xb1```
 + ```chmod +x *```
 + ```bash setup.sh``` or ```./setup.sh```
